@@ -2,3 +2,5 @@
 h1{ color:#f0A050; }
 
 th, td { border: dashed thick black; }
+
+th.important { color: red; }
