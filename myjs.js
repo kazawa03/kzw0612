@@ -8,8 +8,8 @@ alert(0/0);
 
 
 
-2+3
-"2"+"3"
-Number("2")+Number("3")
-"2"+3
-Number("2")+3
+alert(2+3);
+alert("2"+"3");
+alert(Number("2")+Number("3"));
+alert("2"+3);
+alertNumber(("2")+3);
