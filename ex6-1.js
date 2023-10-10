@@ -1,5 +1,5 @@
 function sayhello61(){alert('Hello,Function!');}
 
-function sayhello61(){alert('Hello,Function!');}
+function sayhello62(){alert('Hello,Function!');}
 
-function sayhello61(){alert('Goodbye.');}
+function sayhello63(){alert('Goodbye.');}
