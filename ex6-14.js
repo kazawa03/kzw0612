@@ -1,1 +1,1 @@
-function imgchange3(){document.getElementById('logo').src='./image/hangyo1.jpeg';}
+function imgchange3(){ document.getElementById('hangyo').src='./image/hangyo1.jpeg'; }
