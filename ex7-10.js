@@ -1,1 +1,7 @@
-function add(){var x = document.getElementById('input3').value; var y = document.getElementById('input4').value; alert(Number(x)/(Number(y)**2));}
+function add710(){
+  var x = document.getElementById('input5').value;
+  var y = document.getElementById('input6').value;
+  var bmi = Number(x)/(Number(y)**2);
+  
+  
+  alert(bmi);}
